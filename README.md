@@ -18,6 +18,7 @@
 无线网卡：BCM94360CD with NGFF Adapter
 
 > 自带硬盘为三星PM991 不支持黑苹果 需更换
+
 硬盘：WD_BLACK SN750 256G
 
 ###目前问题
