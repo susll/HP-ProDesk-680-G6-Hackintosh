@@ -30,6 +30,7 @@ Monterey 、 Ventura
 网卡：Intel I219LM11
 
 > 无线网卡需自行购买，可以没有
+
 无线网卡：BCM94360CD with NGFF Adapter
 
 > 自带硬盘为三星PM991 不支持黑苹果 需更换
