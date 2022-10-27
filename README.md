@@ -1,6 +1,8 @@
 # HP-ProDesk-680-G6-Hackintosh
 
-![image](https://user-images.githubusercontent.com/46889782/124578101-7c72a380-de80-11eb-9213-97e6648ca5f0.png)
+
+
+![WX20221027-111307](https://user-images.githubusercontent.com/46889782/198182390-6599711f-45ae-430a-8990-14434f04b723.png)
 
 ### 22.10.27更新
 
