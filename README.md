@@ -1,6 +1,6 @@
 # HP-ProDesk-680-G6-Hackintosh
 
-
+####装回Win11了。停止维护..
 
 ![WX20221027-111307](https://user-images.githubusercontent.com/46889782/198182390-6599711f-45ae-430a-8990-14434f04b723.png)
 
